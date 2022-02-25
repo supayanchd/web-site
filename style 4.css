@@ -1,0 +1,96 @@
+body{
+    background-color: turquoise;
+}
+
+.uu{
+    width: 600px;
+    background-color: white;
+    margin: 40px auto;
+    padding: 70px 70px;
+    border-right: 40px solid blue;
+}
+.ll{
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    display: block;
+}
+
+.hh{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pp{
+    display: flex;
+    justify-content: space-between;
+}
+
+.zz{
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type='radio']{
+    display: inline-block;
+}
+
+input[type='submit']{
+    width: 100%;
+    height: 40px;
+   background-image: linear-gradient(green,blue);
+   color: white;
+   text-transform: uppercase;
+   border: none;
+
+}
+
+h1{
+    text-transform: uppercase;
+    color: blue;
+}
+
+input[type='text'],input[type='user'],input[type='email'],input[type='phone'],input[type='pass'],input[type='con']{
+    width: 274px;
+    height: 30px;
+    background-color: hotpink;
+
+}
+
+label{
+    text-transform: uppercase;
+    color: slategrey;
+}
+
+h2{
+    color: coral;
+}
+
+div > p{
+    color: red;
+}
+
+.nn{
+    margin: 15px 0px;
+}
+
+.dd{
+    margin: 15px 0px;
+}
+
+.oo{
+    margin: 15px 0px;
+}
+
+.ss{
+    margin: 15px 0px;
+}
+
+.cc{
+    margin: 15px 0px;
+}
+.xx{
+    margin: 15px 0px;
+}
